@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "img": "./src/img/p-1.jpg",
+    "title": "Taj Mahal",
+    "description": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, Uttar Pradesh, India."
+  },
+  {
+    "id": 2,
+    "img": "./src/img/p-2.jpg",
+    "title": "Kedarnath",
+    "description": "Kedarnath is a town and Nagar Panchayat in Rudraprayag district of Uttarakhand, India, known primarily for the Kedarnath Temple."
+  },
+  {
+    "id": 3,
+    "img": "./src/img/p-3.jpg",
+    "title": "Shimla",
+    "description": "Shimla is the capital of the northern Indian state of Himachal Pradesh, in the Himalayan foothills. "
+  },
+  {
+    "id": 4,
+    "img": "./src/img/p-4.jpg",
+    "title": "Thailand",
+    "description": "Thailand is a Southeast Asian country. It's known for tropical beaches, opulent royal palaces, ancient ruins and ornate temples displaying figures of Buddha. "
+  },
+  {
+    "id": 5,
+    "img": "./src/img/p-5.jpg",
+    "title": "Statue of Liberty",
+    "description": "The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor in New York City, United States."
+  },
+  {
+    "id": 6,
+    "img": "./src/img/p-6.jpg",
+    "title": "Japan",
+    "description": "Japan is an island country in East Asia. It is in the northwest Pacific Ocean and is bordered on the west by the Sea of Japan, extending from the Sea of Okhotsk in the north"
+  },
+  {
+    "id": 7,
+    "img": "./src/img/p-7.jpg",
+    "title": "China",
+    "description": "China, officially the People's Republic of China, is a country in East Asia. With a population exceeding 1.4 billion, it is the world's second-most populous country"
+  },
+  {
+    "id": 8,
+    "img": "./src/img/p-8.jpg",
+    "title": "Shri Lanka",
+    "description": "Sri Lanka, historically known as Ceylon and officially the Democratic Socialist Republic of Sri Lanka, is an island country in South Asia"
+  }
+]
